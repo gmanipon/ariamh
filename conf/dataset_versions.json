@@ -1,0 +1,9 @@
+{
+  "S1-IW_SLC": "v1.1",
+  "S1-IW_SLC_SWATH": "v1.1",
+  "S1-IFG": "v1.1.4",
+  "S1-IFG-STITCHED": "v1.1.4",
+  "S1-SLCP": "v1.1.4",
+  "TS": "v1.1",
+  "features": "v1.1"
+}
